@@ -1,0 +1,141 @@
+# depslib dependency file v1.0
+1413229277 source:e:\task1\task1\task1.cpp
+	"task1.h"
+
+1413229399 e:\task1\task1\task1.h
+	<iostream>
+	<string>
+
+1413229450 source:e:\task1\task1\task1db.cpp
+	"task1DB.h"
+
+1413229482 e:\task1\task1\task1db.h
+	"task1.h"
+
+1413229277 source:e:\task1\task1\main.cpp
+	"task1DB.h"
+
+1413229277 source:d:\semester 2\pl 2\saiful sir\assignment\task1\task1.cpp
+	"task1.h"
+
+1413229399 d:\semester 2\pl 2\saiful sir\assignment\task1\task1.h
+	<iostream>
+	<string>
+
+1413229450 source:d:\semester 2\pl 2\saiful sir\assignment\task1\task1db.cpp
+	"task1DB.h"
+
+1413229482 d:\semester 2\pl 2\saiful sir\assignment\task1\task1db.h
+	"task1.h"
+
+1413229277 source:d:\versity files\semester 2\mid term\pl 2\saiful sir\assignment\task1\task1.cpp
+	"task1.h"
+
+1413229399 d:\versity files\semester 2\mid term\pl 2\saiful sir\assignment\task1\task1.h
+	<iostream>
+	<string>
+
+1413229450 source:d:\versity files\semester 2\mid term\pl 2\saiful sir\assignment\task1\task1db.cpp
+	"task1DB.h"
+
+1413229482 d:\versity files\semester 2\mid term\pl 2\saiful sir\assignment\task1\task1db.h
+	"task1.h"
+
+1413912066 source:d:\versity files\semester 2\mid term\pl 2\saiful sir\assignment\task1\main.cpp
+	"task1DB.h"
+
+1417118953 source:c:\users\nies\desktop\task1\task1.cpp
+	"task1.h"
+
+1417116405 c:\users\nies\desktop\task1\task1.h
+	<iostream>
+	<string>
+
+1417118749 source:c:\users\nies\desktop\task1\task1db.cpp
+	"task1DB.h"
+
+1417118084 c:\users\nies\desktop\task1\task1db.h
+	"task1.h"
+
+1417112887 source:c:\users\nies\desktop\task1\main.cpp
+	"task1DB.h"
+
+1418080696 source:c:\users\nies\desktop\project\task1.cpp
+	"task1.h"
+
+1418080502 c:\users\nies\desktop\project\task1.h
+	<iostream>
+	<string>
+	<fstream>
+	<cstdio>
+	<cstdlib>
+	<vector>
+
+1418052691 source:c:\users\nies\desktop\project\main.cpp
+	"task1DB.h"
+	<fstream>
+	<cstdlib>
+
+1418080129 c:\users\nies\desktop\project\task1db.h
+	"task1.h"
+	<vector>
+
+1418080538 source:c:\users\nies\desktop\project\task1db.cpp
+	"task1DB.h"
+	<fstream>
+	<sstream>
+	<cstdlib>
+
+1418031092 source:f:\versity files\semester 2\final term\pl-2\project\project\main.cpp
+	"task1DB.h"
+	<fstream>
+	<cstdlib>
+
+1418058530 f:\versity files\semester 2\final term\pl-2\project\project\task1db.h
+	"task1.h"
+	<vector>
+
+1418058904 f:\versity files\semester 2\final term\pl-2\project\project\task1.h
+	<iostream>
+	<string>
+	<fstream>
+	<cstdio>
+	<cstdlib>
+	<vector>
+
+1418059098 source:f:\versity files\semester 2\final term\pl-2\project\project\task1.cpp
+	"task1.h"
+
+1418059116 source:f:\versity files\semester 2\final term\pl-2\project\project\task1db.cpp
+	"task1DB.h"
+	<fstream>
+	<sstream>
+	<cstdlib>
+
+1517514615 source:g:\varsity files\semester 2\final term\pl-2\project\project\main.cpp
+	"task1DB.h"
+	<fstream>
+	<cstdlib>
+
+1418058530 g:\varsity files\semester 2\final term\pl-2\project\project\task1db.h
+	"task1.h"
+	<vector>
+
+1418058904 g:\varsity files\semester 2\final term\pl-2\project\project\task1.h
+	<iostream>
+	<string>
+	<fstream>
+	<cstdio>
+	<cstdlib>
+	<vector>
+
+1418059098 source:g:\varsity files\semester 2\final term\pl-2\project\project\task1.cpp
+	"task1.h"
+
+1517515750 source:g:\varsity files\semester 2\final term\pl-2\project\project\task1db.cpp
+	"task1DB.h"
+	<fstream>
+	<sstream>
+	<cstdlib>
+	<bits/stdc++.h>
+
